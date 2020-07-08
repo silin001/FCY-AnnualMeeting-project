@@ -1,4 +1,4 @@
-# 公司年会项目
+# 公司年会项目(app)
 
 ## Project setup
 

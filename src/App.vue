@@ -33,6 +33,6 @@ export default {
     // if (this.$router.path !== "/index") {
     //   this.$router.replace("/index");
     // }
-  }
+  },
 };
 </script>
